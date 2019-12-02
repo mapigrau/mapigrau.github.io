@@ -1,0 +1,24 @@
+h2{
+	height: 10%;
+	font-family:blippo, fantasy;
+}
+	
+h3{
+	height: 10%;
+	font-family:blippo, fantasy;	
+}
+
+h1,h4,h5,h6{font-family: blippo, fantasy;}
+p,br{font-family: Helvetica, sans-serif; font-size: 1rem;color:white;}
+.colum2>p{font-family: Helvetica, sans-serif;font-size: 1rem;}
+
+div>h2 {text-shadow: 2px 4px 10px grey;}
+div>h3 {text-shadow: 2px 4px 10px grey;}
+body>h3 {box-shadow: 2px 4px 10px 4px red;background-color:grey;}
+center>h3 {box-shadow: 2px 4px 10px 4px red;background-color:grey;}
+body>h2 {box-shadow: 2px 4px 10px 4px red;background-color:grey;}
+.rest>h3{box-shadow: 2px 4px 10px 4px red;background-color:grey;}
+.rest>h2{box-shadow: 2px 4px 10px 4px red;background-color:grey;}
+a:link:hover{color:green;}
+a:hover {color lime; text-decoration: underline;}
+:link {color #ebab0c;

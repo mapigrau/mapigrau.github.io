@@ -20,5 +20,11 @@ body>h2 {box-shadow: 2px 4px 10px 4px red;background-color:grey;}
 .rest>h3{box-shadow: 2px 4px 10px 4px red;background-color:grey;}
 .rest>h2{box-shadow: 2px 4px 10px 4px red;background-color:grey;}
 a:link:hover{color:green;}
-a:hover {color lime; text-decoration: underline;}
-:link {color #ebab0c;
+a:hover 
+{color lime; text-decoration: underline;}
+:link {
+    color: green;
+}
+:visited {
+    color: red;
+}
